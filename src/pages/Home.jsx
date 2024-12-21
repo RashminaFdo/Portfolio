@@ -8,8 +8,8 @@ const Home = () => {
   return (
     <>
       <SEO
-        title="Rashmina Fernando - Software Developer"
-        description="Personal portfolio of Rashmina Fernando, a software developer and computer science student."
+        title="Rashmina Fernando - Computer Science Undergraduate"
+        description="Personal portfolio of Rashmina Fernando, a computer science undergraduate at University of Westminster."
         name="Rashmina Fernando"
         type="website"
       />
@@ -34,7 +34,7 @@ const Home = () => {
           </h1>
           
           <h2 className="text-2xl md:text-3xl font-medium text-theme-green">
-            Software Developer & Computer Science Student
+            Computer Science Undergraduate
           </h2>
           
           <p className="text-gray-700 dark:text-light-slate max-w-2xl mx-auto text-lg">

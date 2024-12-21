@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://rashmina-fernando.github.io/my-portfolio",
+  "homepage": "https://rashminafdo.github.io/Portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
