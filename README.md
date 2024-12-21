@@ -19,11 +19,7 @@ My personal portfolio website built with React and Tailwind CSS.
 - React Router
 - React Helmet
 
-## Setup
-1. Clone the repository
-2. Install dependencies: `npm install`
-3. Run development server: `npm run dev`
-4. Build for production: `npm run build`
+
 
 ## Deployment
 Deployed using GitHub Pages at [https://rashminafdo.github.io/Portfolio](https://rashminafdo.github.io/Portfolio)
