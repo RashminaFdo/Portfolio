@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+  
+  body {
+    @apply bg-navy text-light-slate;
+  }
+}
+
+@layer components {
+  .page-container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16;
+  }
+  
+  .section-title {
+    @apply text-4xl font-bold text-lightest-slate mb-6;
+  }
+  
+  .nav-link {
+    @apply cursor-pointer hover:text-theme-green transition-colors duration-300;
+  }
+}
